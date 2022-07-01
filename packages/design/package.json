@@ -5,7 +5,7 @@
   "author": "clare <clare@duomai.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/design.js",
+  "main": "es/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -13,6 +13,7 @@
   "files": [
     "lib"
   ],
+  "types": "es/index.d.ts",
   "publishConfig": {
     "registry": "http://192.168.1.30:4873/"
   },
